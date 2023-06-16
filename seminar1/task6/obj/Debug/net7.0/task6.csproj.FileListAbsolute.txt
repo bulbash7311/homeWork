@@ -1,0 +1,15 @@
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/bin/Debug/net7.0/task6
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/bin/Debug/net7.0/task6.deps.json
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/bin/Debug/net7.0/task6.runtimeconfig.json
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/bin/Debug/net7.0/task6.dll
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/bin/Debug/net7.0/task6.pdb
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.csproj.AssemblyReference.cache
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.AssemblyInfoInputs.cache
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.AssemblyInfo.cs
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.csproj.CoreCompileInputs.cache
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.dll
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/refint/task6.dll
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.pdb
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/task6.genruntimeconfig.cache
+/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task6/obj/Debug/net7.0/ref/task6.dll
