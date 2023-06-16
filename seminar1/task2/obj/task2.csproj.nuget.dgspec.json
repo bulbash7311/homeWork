@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task2/task2.csproj": {}
+    "/Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/task2.csproj": {}
   },
   "projects": {
-    "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task2/task2.csproj": {
+    "/Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task2/task2.csproj",
+        "projectUniqueName": "/Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/task2.csproj",
         "projectName": "task2",
-        "projectPath": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task2/task2.csproj",
+        "projectPath": "/Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/task2.csproj",
         "packagesPath": "/Users/bulbash/.nuget/packages/",
-        "outputPath": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task2/obj/",
+        "outputPath": "/Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bulbash/.nuget/NuGet/NuGet.Config"
