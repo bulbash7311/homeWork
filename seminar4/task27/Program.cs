@@ -1,14 +1,12 @@
-﻿int number = Prompt("Введите число:");
-
-int Prompt(string message)
+﻿int ReadInt(string message)
 {
-    System.Console.Write("Введите число");
-    int result = Convert.ToInt32(Console.Readline());
+    System.Console.Write(message);
+    int result = Convert.ToInt32(Console.ReadLine());
     
     return result;
 }
 
- int SumAllDigit(int number)
+ int SumAllNumbers(int number)
 {
     int result = 0;
     while (number > 0)
@@ -20,4 +18,5 @@ int Prompt(string message)
     return result;
 }
 
-Console.WriteLine($"Сумма всех чисел {number} = {SumAllDigit(number)}");
+int number = ReadInt("Введите число: ");
+Console.WriteLine($"Сумма всех чисел {number} = {SumAllNumbers(number)}");
