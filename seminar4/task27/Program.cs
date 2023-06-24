@@ -4,6 +4,7 @@ int Prompt(string message)
 {
     System.Console.Write("Введите число");
     int result = Convert.ToInt32(Console.Readline());
+    
     return result;
 }
 
