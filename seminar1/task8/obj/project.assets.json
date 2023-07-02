@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/bulbash/.nuget/packages/": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task1/task1.csproj",
+      "projectUniqueName": "D:\\Docs\\GeekBrains\\homeWork\\seminar1\\task8\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task1/task1.csproj",
-      "packagesPath": "/Users/bulbash/.nuget/packages/",
-      "outputPath": "/Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task1/obj/",
+      "projectPath": "D:\\Docs\\GeekBrains\\homeWork\\seminar1\\task8\\task1.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Docs\\GeekBrains\\homeWork\\seminar1\\task8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bulbash/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,18 @@
 /Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task4/obj/Debug/net7.0/task4.pdb
 /Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task4/obj/Debug/net7.0/task4.genruntimeconfig.cache
 /Users/bulbash/Documents/GeekBrains/3. C#/seminar1/task4/obj/Debug/net7.0/ref/task4.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task4\bin\Debug\net7.0\task4.exe
+D:\Docs\GeekBrains\homeWork\seminar1\task4\bin\Debug\net7.0\task4.deps.json
+D:\Docs\GeekBrains\homeWork\seminar1\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+D:\Docs\GeekBrains\homeWork\seminar1\task4\bin\Debug\net7.0\task4.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task4\bin\Debug\net7.0\task4.pdb
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\refint\task4.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.pdb
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task4\obj\Debug\net7.0\ref\task4.dll

@@ -28,3 +28,18 @@
 /Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/obj/Debug/net7.0/task2.pdb
 /Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
 /Users/bulbash/Documents/GeekBrains/3. C#/HomeWorks/seminar1/task2/obj/Debug/net7.0/ref/task2.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task2\bin\Debug\net7.0\task2.exe
+D:\Docs\GeekBrains\homeWork\seminar1\task2\bin\Debug\net7.0\task2.deps.json
+D:\Docs\GeekBrains\homeWork\seminar1\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+D:\Docs\GeekBrains\homeWork\seminar1\task2\bin\Debug\net7.0\task2.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task2\bin\Debug\net7.0\task2.pdb
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\refint\task2.dll
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.pdb
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+D:\Docs\GeekBrains\homeWork\seminar1\task2\obj\Debug\net7.0\ref\task2.dll
