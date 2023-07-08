@@ -3,8 +3,8 @@
 int rows = ReadInt("Введите количество строк: ");
 int cols = ReadInt("Введите количество столбцов: ");
 int[,] matrix = FillMatrix(rows, cols, 0, 10);
-int count = 0;
 int min = 0;
+int count = 0;
 int[] sum = new int[matrix.GetLength(0)];
 
 int ReadInt(string text)
@@ -44,44 +44,50 @@ void RowsSum() //Суммирование строк матрицы
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < matrix.GetLength(0); j++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
             sum[i] = sum[i] + matrix[i, j];
         }
+
+        System.Console.Write("sum=" + sum[i] + "\t");
     }
 }
 
 void MatrixMinRows() //Нахождение наименьшей суммы
 {
-    for (int i = 0; i < sum.Length; i++)
+    min = sum[0];
+
+    for (int i = 0; i < sum.GetLength(0); i++)
     {
-        count = 0;
-
-        min = sum[count];
-
-        while (count < sum.Length - 1)
+        if (sum[i] < min)
         {
-            if (sum[count] < min)
-            {
-                min = sum[count];
-            }
-
-            count++;
+            min = sum[i];
+count = i;
         }
+    }
+}
+
+void PrintResult() //Вывод результата
+{
+    for (int j = 0; j < matrix.GetLength(0); j++)
+    {
+        System.Console.Write(matrix[count, j] + "\t");
     }
 }
 
 PrintMatrix(matrix);
 
 System.Console.WriteLine("");
+System.Console.WriteLine("");
 
 RowsSum();
+
+System.Console.WriteLine("");
+System.Console.WriteLine("");
 
 MatrixMinRows();
 
 System.Console.WriteLine("");
+System.Console.WriteLine("");
 
-for (int j = 0; j < matrix.GetLength(0); j++)
-{
-    System.Console.Write(matrix[count, j] + "\t");
-}
+PrintResult();
