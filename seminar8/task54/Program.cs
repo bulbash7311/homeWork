@@ -39,8 +39,6 @@ int[,] matrix = FillMatrix(rows, cols, 0, 10);
 int[] array = new int[cols];
 int count = 0;
 PrintMatrix(matrix);
-
-System.Console.WriteLine();
 System.Console.WriteLine();
 
 for (int i = 0; i < matrix.GetLength(1); i++)
@@ -63,7 +61,4 @@ for (int i = 0; i < matrix.GetLength(1); i++)
         }
     }
 }
-
-System.Console.WriteLine();
-System.Console.WriteLine();
 PrintMatrix(matrix);
