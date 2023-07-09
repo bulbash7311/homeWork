@@ -49,7 +49,7 @@ void RowsSum() //Суммирование строк матрицы
             sum[i] = sum[i] + matrix[i, j];
         }
 
-        System.Console.Write("sum=" + sum[i] + "\t");
+        //System.Console.Write("sum=" + sum[i] + "\t");
     }
 }
 
@@ -62,7 +62,7 @@ void MatrixMinRows() //Нахождение наименьшей суммы
         if (sum[i] < min)
         {
             min = sum[i];
-count = i;
+            count = i;
         }
     }
 }
@@ -78,16 +78,9 @@ void PrintResult() //Вывод результата
 PrintMatrix(matrix);
 
 System.Console.WriteLine("");
-System.Console.WriteLine("");
 
 RowsSum();
 
-System.Console.WriteLine("");
-System.Console.WriteLine("");
-
 MatrixMinRows();
-
-System.Console.WriteLine("");
-System.Console.WriteLine("");
 
 PrintResult();
