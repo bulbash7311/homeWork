@@ -25,5 +25,5 @@ void Numbers(int M, int N)
     Numbers(M, N - 1);
 }
 
-if(M > N) System.Console.Write("\n" + "Вы ввели неверный диапазон!");
-else Numbers(M,N);
+if(M < N) Numbers(M,N);
+else Numbers(N,M);
