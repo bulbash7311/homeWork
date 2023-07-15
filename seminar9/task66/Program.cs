@@ -18,12 +18,12 @@ void Numbers(int M, int N)
 
     if (N == M)
     {
-        System.Console.Write(num);
+        System.Console.Write("\n" + "Cумма натуральных элементов = " +num);
         return;
     }
 
     Numbers(M, N - 1);
 }
 
-
-Numbers(M,N);
+if(M > N) System.Console.Write("Вы ввели неверный даипазон!");
+else Numbers(M,N);
