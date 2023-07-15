@@ -18,7 +18,7 @@ void Numbers(int M, int N)
 
     if (N == M)
     {
-        System.Console.Write("\n" + "Cумма натуральных элементов = " +num);
+        System.Console.Write("\n" + "Cумма натуральных элементов = " + num);
         return;
     }
 
